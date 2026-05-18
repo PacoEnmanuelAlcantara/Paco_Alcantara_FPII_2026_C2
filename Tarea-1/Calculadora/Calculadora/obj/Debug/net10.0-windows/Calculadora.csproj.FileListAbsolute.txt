@@ -1,0 +1,17 @@
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\bin\Debug\net10.0-windows\Calculadora.exe
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\bin\Debug\net10.0-windows\Calculadora.deps.json
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\bin\Debug\net10.0-windows\Calculadora.runtimeconfig.json
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\bin\Debug\net10.0-windows\Calculadora.dll
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\bin\Debug\net10.0-windows\Calculadora.pdb
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.dll
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\refint\Calculadora.dll
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.pdb
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\ref\Calculadora.dll
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\Goril\OneDrive\Escritorio\Calculadora\Calculadora\obj\Debug\net10.0-windows\Calculadora.Calculadora.resources
