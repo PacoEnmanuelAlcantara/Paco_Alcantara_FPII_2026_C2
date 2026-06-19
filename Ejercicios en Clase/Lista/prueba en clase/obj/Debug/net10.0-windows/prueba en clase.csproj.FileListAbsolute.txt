@@ -1,0 +1,16 @@
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\bin\Debug\net10.0-windows\prueba en clase.exe
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\bin\Debug\net10.0-windows\prueba en clase.deps.json
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\bin\Debug\net10.0-windows\prueba en clase.runtimeconfig.json
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\bin\Debug\net10.0-windows\prueba en clase.dll
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\bin\Debug\net10.0-windows\prueba en clase.pdb
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\obj\Debug\net10.0-windows\prueba_en_clase.Form1.resources
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\obj\Debug\net10.0-windows\prueba en clase.csproj.GenerateResource.cache
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\obj\Debug\net10.0-windows\prueba en clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\obj\Debug\net10.0-windows\prueba en clase.AssemblyInfoInputs.cache
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\obj\Debug\net10.0-windows\prueba en clase.AssemblyInfo.cs
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\obj\Debug\net10.0-windows\prueba en clase.csproj.CoreCompileInputs.cache
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\obj\Debug\net10.0-windows\prueba en clase.dll
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\obj\Debug\net10.0-windows\refint\prueba en clase.dll
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\obj\Debug\net10.0-windows\prueba en clase.pdb
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\obj\Debug\net10.0-windows\prueba en clase.genruntimeconfig.cache
+C:\Users\Goril\OneDrive\Escritorio\prueba en clase\prueba en clase\obj\Debug\net10.0-windows\ref\prueba en clase.dll
