@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Queue-C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B28D0B9-5B65-42E2-87AE-40E679475F04}|Queue-C#\\Queue-C#.csproj|c:\\users\\goril\\onedrive\\escritorio\\queue-c#\\queue-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B28D0B9-5B65-42E2-87AE-40E679475F04}|Queue-C#\\Queue-C#.csproj|solutionrelative:queue-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B28D0B9-5B65-42E2-87AE-40E679475F04}|Queue-C#\\Queue-C#.csproj|c:\\users\\goril\\onedrive\\escritorio\\queue-c#\\queue-c#\\cnodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B28D0B9-5B65-42E2-87AE-40E679475F04}|Queue-C#\\Queue-C#.csproj|solutionrelative:queue-c#\\cnodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B28D0B9-5B65-42E2-87AE-40E679475F04}|Queue-C#\\Queue-C#.csproj|c:\\users\\goril\\onedrive\\escritorio\\queue-c#\\queue-c#\\cqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B28D0B9-5B65-42E2-87AE-40E679475F04}|Queue-C#\\Queue-C#.csproj|solutionrelative:queue-c#\\cqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 388,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CNodo.cs",
+              "DocumentMoniker": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Queue-C#\\Queue-C#\\CNodo.cs",
+              "RelativeDocumentMoniker": "Queue-C#\\CNodo.cs",
+              "ToolTip": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Queue-C#\\Queue-C#\\CNodo.cs",
+              "RelativeToolTip": "Queue-C#\\CNodo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T18:15:08.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Queue-C#\\Queue-C#\\CQueue.cs",
+              "RelativeDocumentMoniker": "Queue-C#\\CQueue.cs",
+              "ToolTip": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Queue-C#\\Queue-C#\\CQueue.cs",
+              "RelativeToolTip": "Queue-C#\\CQueue.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T18:14:55.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Queue-C#\\Queue-C#\\Program.cs",
+              "RelativeDocumentMoniker": "Queue-C#\\Program.cs",
+              "ToolTip": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Queue-C#\\Queue-C#\\Program.cs",
+              "RelativeToolTip": "Queue-C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T18:14:07.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

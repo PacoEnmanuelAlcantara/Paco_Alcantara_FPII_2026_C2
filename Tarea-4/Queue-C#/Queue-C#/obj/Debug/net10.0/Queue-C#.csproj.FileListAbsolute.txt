@@ -1,0 +1,14 @@
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\bin\Debug\net10.0\Queue-C#.exe
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\bin\Debug\net10.0\Queue-C#.deps.json
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\bin\Debug\net10.0\Queue-C#.runtimeconfig.json
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\bin\Debug\net10.0\Queue-C#.dll
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\bin\Debug\net10.0\Queue-C#.pdb
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\obj\Debug\net10.0\Queue-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\obj\Debug\net10.0\Queue-C#.AssemblyInfoInputs.cache
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\obj\Debug\net10.0\Queue-C#.AssemblyInfo.cs
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\obj\Debug\net10.0\Queue-C#.csproj.CoreCompileInputs.cache
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\obj\Debug\net10.0\Queue-C#.dll
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\obj\Debug\net10.0\refint\Queue-C#.dll
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\obj\Debug\net10.0\Queue-C#.pdb
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\obj\Debug\net10.0\Queue-C#.genruntimeconfig.cache
+C:\Users\Goril\OneDrive\Escritorio\Queue-C#\Queue-C#\obj\Debug\net10.0\ref\Queue-C#.dll

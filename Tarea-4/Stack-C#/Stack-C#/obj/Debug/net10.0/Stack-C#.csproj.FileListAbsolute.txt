@@ -1,0 +1,14 @@
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\bin\Debug\net10.0\Stack-C#.exe
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\bin\Debug\net10.0\Stack-C#.deps.json
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\bin\Debug\net10.0\Stack-C#.runtimeconfig.json
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\bin\Debug\net10.0\Stack-C#.dll
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\bin\Debug\net10.0\Stack-C#.pdb
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\obj\Debug\net10.0\Stack-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\obj\Debug\net10.0\Stack-C#.AssemblyInfoInputs.cache
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\obj\Debug\net10.0\Stack-C#.AssemblyInfo.cs
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\obj\Debug\net10.0\Stack-C#.csproj.CoreCompileInputs.cache
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\obj\Debug\net10.0\Stack-C#.dll
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\obj\Debug\net10.0\refint\Stack-C#.dll
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\obj\Debug\net10.0\Stack-C#.pdb
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\obj\Debug\net10.0\Stack-C#.genruntimeconfig.cache
+C:\Users\Goril\OneDrive\Escritorio\Stack-C#\Stack-C#\obj\Debug\net10.0\ref\Stack-C#.dll

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Stack-C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E674D52-EEDC-471D-997E-0F55BE9DF9B0}|Stack-C#\\Stack-C#.csproj|c:\\users\\goril\\onedrive\\escritorio\\stack-c#\\stack-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E674D52-EEDC-471D-997E-0F55BE9DF9B0}|Stack-C#\\Stack-C#.csproj|solutionrelative:stack-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E674D52-EEDC-471D-997E-0F55BE9DF9B0}|Stack-C#\\Stack-C#.csproj|c:\\users\\goril\\onedrive\\escritorio\\stack-c#\\stack-c#\\cnodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E674D52-EEDC-471D-997E-0F55BE9DF9B0}|Stack-C#\\Stack-C#.csproj|solutionrelative:stack-c#\\cnodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E674D52-EEDC-471D-997E-0F55BE9DF9B0}|Stack-C#\\Stack-C#.csproj|c:\\users\\goril\\onedrive\\escritorio\\stack-c#\\stack-c#\\cstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E674D52-EEDC-471D-997E-0F55BE9DF9B0}|Stack-C#\\Stack-C#.csproj|solutionrelative:stack-c#\\cstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 388,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CStack.cs",
+              "DocumentMoniker": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Stack-C#\\Stack-C#\\CStack.cs",
+              "RelativeDocumentMoniker": "Stack-C#\\CStack.cs",
+              "ToolTip": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Stack-C#\\Stack-C#\\CStack.cs",
+              "RelativeToolTip": "Stack-C#\\CStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:35:27.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CNodo.cs",
+              "DocumentMoniker": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Stack-C#\\Stack-C#\\CNodo.cs",
+              "RelativeDocumentMoniker": "Stack-C#\\CNodo.cs",
+              "ToolTip": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Stack-C#\\Stack-C#\\CNodo.cs",
+              "RelativeToolTip": "Stack-C#\\CNodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:35:11.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Stack-C#\\Stack-C#\\Program.cs",
+              "RelativeDocumentMoniker": "Stack-C#\\Program.cs",
+              "ToolTip": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Stack-C#\\Stack-C#\\Program.cs*",
+              "RelativeToolTip": "Stack-C#\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:33:28.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
