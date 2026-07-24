@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Loteca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f0e15ad55dd4d91b96833081fd1756cd1de2641")]
 [assembly: System.Reflection.AssemblyProductAttribute("Loteca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Loteca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
