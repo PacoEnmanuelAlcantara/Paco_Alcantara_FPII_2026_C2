@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Goril\\OneDrive\\Escritorio\\MQTT_APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{086124B8-48E3-407C-7C4A-D7A19686CE4B}|MQTT_APP\\MQTT_APP.csproj|c:\\users\\goril\\onedrive\\escritorio\\mqtt_app\\mqtt_app\\mqtt_app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{086124B8-48E3-407C-7C4A-D7A19686CE4B}|MQTT_APP\\MQTT_APP.csproj|solutionrelative:mqtt_app\\mqtt_app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086124B8-48E3-407C-7C4A-D7A19686CE4B}|MQTT_APP\\MQTT_APP.csproj|c:\\users\\goril\\onedrive\\escritorio\\mqtt_app\\mqtt_app\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086124B8-48E3-407C-7C4A-D7A19686CE4B}|MQTT_APP\\MQTT_APP.csproj|solutionrelative:mqtt_app\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 253,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MQTT_APP",
+              "DocumentMoniker": "C:\\Users\\Goril\\OneDrive\\Escritorio\\MQTT_APP\\MQTT_APP\\MQTT_APP.csproj",
+              "RelativeDocumentMoniker": "MQTT_APP\\MQTT_APP.csproj",
+              "ToolTip": "C:\\Users\\Goril\\OneDrive\\Escritorio\\MQTT_APP\\MQTT_APP\\MQTT_APP.csproj",
+              "RelativeToolTip": "MQTT_APP\\MQTT_APP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-17T00:30:21.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Goril\\OneDrive\\Escritorio\\MQTT_APP\\MQTT_APP\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MQTT_APP\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Goril\\OneDrive\\Escritorio\\MQTT_APP\\MQTT_APP\\MainPage.xaml.cs",
+              "RelativeToolTip": "MQTT_APP\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T23:26:19.315Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

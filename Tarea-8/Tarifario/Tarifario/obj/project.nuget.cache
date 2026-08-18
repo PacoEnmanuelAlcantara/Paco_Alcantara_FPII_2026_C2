@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sfWaI8IhRlM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Goril\\OneDrive\\Escritorio\\Tarifario\\Tarifario\\Tarifario\\Tarifario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Goril\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\Goril\\.nuget\\packages\\questpdf\\2026.7.3\\questpdf.2026.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
